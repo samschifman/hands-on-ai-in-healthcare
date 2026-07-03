@@ -170,6 +170,10 @@ cython_debug/
 .idea/
 *.iml
 
+
+# Claude Code
+.claude/
+
 # Custom ignores
 working/
 Testing.ipynb
